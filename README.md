@@ -1,6 +1,6 @@
 # Fast-Pizza
 
-👉 Live Demo: https://fast-react-pizza-co-lime.vercel.app
+👉 Live Demo: [fast-pizza-go.vercel.app](https://fast-pizza-go.vercel.app)
 
 ## Description
 
