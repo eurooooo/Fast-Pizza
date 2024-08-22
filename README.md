@@ -1,10 +1,10 @@
-# Fast-Pizza
+# Fast-Pizza-Go
+
+Order pizzas easily without needing an account or login.
 
 👉 Live Demo: [fast-pizza-go.vercel.app](https://fast-pizza-go.vercel.app)
 
-## Description
-
-"Fast Pizza Go" is a web app that lets users order pizzas easily without needing an account or login.
+![alt text](public/Fast-Pizza-Go-1.png)
 
 ## Features
 
