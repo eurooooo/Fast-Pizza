@@ -1,3 +1,20 @@
 # Fast-Pizza
 
-"Fast Pizza Co.," seems to be a React-based project that lets users order pizzas easily without needing an account or login. It features a simple UI where users can browse a dynamic pizza menu, add pizzas to their cart, and then place an order by providing just their name, phone number, and address. There’s even an option to prioritize an order for an extra fee. The application is built with modern web technologies like React, TailwindCSS, and Vite, ensuring a smooth user experience
+👉 Live Demo: https://fast-react-pizza-co-lime.vercel.app
+
+## Description
+
+"Fast Pizza Go" is a web app that lets users order pizzas easily without needing an account or login.
+
+## Features
+
+It features a simple UI where users can:
+
+- Browse a dynamic pizza menu
+- Add pizzas to their cart
+- Place an order by providing just their name, phone number, and address.
+- Prioritize an order for an extra fee.
+
+## Technologies
+
+The application is built with modern web technologies like **React, React-Router, Redux,TailwindCSS and Vite**.
